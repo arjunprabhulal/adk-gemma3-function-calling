@@ -1,4 +1,4 @@
-# 🤖 Gemma 3 Function Calling with Google ADK
+# Gemma 3 Function Calling with Google ADK
 
 A practical implementation demonstrating function calling (tool use) with Google's Gemma 3 model using the Google AI Development Kit (ADK) and Ollama. This project enables Gemma 3 to perform web searches using CrewAI tools wrapped for ADK compatibility.
 
