@@ -6,28 +6,28 @@ A practical implementation demonstrating function calling (tool use) with Google
 
 ## 📚 Table of Contents
 
-* [Introduction](#-introduction)
-* [Architecture](#-architecture)
-  * [Core Components](#-core-components)
-  * [Technology Highlights](#-technology-highlights)
-* [Features](#-features)
-* [Core Concepts](#-core-concepts)
+* [🔍 Introduction](#-introduction)
+* [🏗️ Architecture](#️-architecture)
+  * [🧩 Core Components](#-core-components)
+  * [✨ Technology Highlights](#-technology-highlights)
+* [🚀 Features](#-features)
+* [🧠 Core Concepts](#-core-concepts)
   * [ADK - Agent Development Kit](#adk---agent-development-kit)
   * [Agents in ADK](#agents-in-adk)
   * [Tools in ADK](#tools-in-adk)
   * [Ollama Integration](#ollama-integration)
-* [Requirements](#-requirements)
-* [Getting Started](#-getting-started)
-  * [Installation Steps](#1-installation-steps)
-  * [Setup](#2-setup)
-  * [Usage](#3-usage)
-* [How It Works](#-how-it-works)
-* [Project Structure](#-project-structure)
-* [Key Considerations](#-key-considerations)
-* [Troubleshooting](#-troubleshooting)
-* [Repository](#-repository)
-* [Author](#-author)
-* [License](#-license)
+* [📋 Requirements](#-requirements)
+* [🚦 Getting Started](#-getting-started)
+  * [1. Installation Steps](#1-installation-steps)
+  * [2. Setup](#2-setup)
+  * [3. Usage](#3-usage)
+* [🔄 How It Works](#-how-it-works)
+* [📁 Project Structure](#-project-structure)
+* [🔄 Key Considerations](#-key-considerations)
+* [⚠️ Troubleshooting](#️-troubleshooting)
+* [📦 Repository](#-repository)
+* [👨‍💻 Author](#-author)
+* [📄 License](#-license)
 
 ## 🔍 Introduction
 
@@ -308,4 +308,4 @@ Created by Arjun Prabhulal. For more articles on AI/ML and Generative AI, follow
 
 ## 📄 License
 
-MIT 
+This project is released under a free and open license. Anyone is free to use, modify, distribute, or build upon this code for any purpose, including commercial applications, without restriction. 
